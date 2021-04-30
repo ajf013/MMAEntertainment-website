@@ -766,9 +766,9 @@ html {
 .scroll-btn {
   position: fixed;
   right: 5rem;
-  bottom: 9rem;
+  bottom: 10rem;
   width: 4.5rem;
-  height: 4.5rem;
+  height: 5rem;
   background-color: dodgerblue;
   display: flex;
   justify-content: center;
@@ -965,7 +965,7 @@ html {
 
 @media (max-width: 500px) {
   html {
-    font-size: 45%;
+    font-size: 50%;
   }
 
   .sidebar {
